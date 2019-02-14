@@ -1,4 +1,4 @@
-## Welcome to My Page
+## Welcome to Qrdk's (Noah's) Page
 
 You can use the [editor on GitHub](https://github.com/QrdkakaNoah/qrdk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,8 @@ You can use the [editor on GitHub](https://github.com/QrdkakaNoah/qrdk.github.io
 
 
 # Works I have done
-links go here
+[Link](https://scratch.mit.edu/projects/261884943/)
+[Link](https://scratch.mit.edu/projects/265966283/)
 
 ### Markdown
 
